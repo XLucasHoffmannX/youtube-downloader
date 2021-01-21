@@ -8,7 +8,7 @@
 </br>
 
 ## Features
-- ✅ **Make dowloand of videos .mp4 in high quality ( 1920x1080 )**
+- ✅ **Make dowload of videos .mp4 in high quality ( 1920x1080 )**
 
 ## API
 👉 https://www.npmjs.com/package/ytdl-core
