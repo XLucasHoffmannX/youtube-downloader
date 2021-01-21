@@ -9,7 +9,7 @@
 
 ## Features
 All app functions
-- ✅ **Fazer dowloand de videos .mp4 em alta qualidade ( 1920x1080 )
+- ✅ **Fazer dowloand de videos .mp4 em alta qualidade ( 1920x1080 )**
 
 ## API
 👉 https://www.npmjs.com/package/ytdl-core
