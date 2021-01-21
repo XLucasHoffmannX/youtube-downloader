@@ -17,7 +17,7 @@ All app functions
 ## Run
 > The html aditional layouts load is blocked by the CORS you need to run on **firefox or live server to work**  
 > **It is not necessary if the `cors` dependency is installed**
-> Ex: **127.0.0.1/index.html**
+> Example: **127.0.0.1/index.html**
 - **Install the dependencies `npm i`**
 - **Start index.html**
 - **At the terminal start `npm start`**
