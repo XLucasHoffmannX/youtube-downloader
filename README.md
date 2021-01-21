@@ -4,7 +4,7 @@
 </br>
 </br>
 </h1>
-<p align="center">Dowload de videos do Youtube através do link !</p>
+<p align="center">Dowload de videos do Youtube através de um link !</p>
 </br>
 
 ## Features
