@@ -12,5 +12,5 @@ app.get('/dowload', (req, res)=>{
     let URL = req.query.URL;
     let nameArchive = "dwlYtd";
     res.header('Content-Disposition', `attachment; filename="${nameArchive}.mp4"`);
-    ytdl(URL, { format: 'mp4', quality: 'highest'}).pipe(res);
+    ytdl(URL, { format: 'mp4', quality: '137'}).pipe(res);
 })
